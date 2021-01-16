@@ -1,0 +1,16 @@
+@import "~antd/dist/antd.css";
+@import "TopBanner.css";
+@import "Main.css";
+@import "Register.css";
+@import "Login.css";
+@import "Homepage.css";
+@import "NavigationBar.css";
+@import "Profile.css";
+@import "Chat.css";
+@import "Contacts.css";
+@import "Story.css";
+@import "Post.css";
+
+.App {
+  text-align: center;
+}

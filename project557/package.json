@@ -1,0 +1,89 @@
+{
+  "name": "project557",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:8000",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.6.0",
+    "antd": "^3.26.18",
+    "axios": "^0.21.0",
+    "bootstrap-icons": "^1.1.0",
+    "chromedriver": "^87.0.4",
+    "crypto-js": "^4.0.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "geckodriver": "^1.21.1",
+    "howler": "^2.2.1",
+    "ise": "^0.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "material-ui-dropzone": "^3.5.0",
+    "mocha": "^8.2.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "prettier": "^2.1.2",
+    "prom": "^0.0.3",
+    "promise": "^8.1.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.13.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-emoji": "^0.5.0",
+    "react-file-reader": "^1.1.4",
+    "react-native-navigator": "^0.4.2",
+    "react-ringing-bell": "^0.1.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "4.0.0",
+    "react-scroll-to-bottom": "^4.0.0",
+    "react-test-renderer": "^17.0.1",
+    "react-window": "^1.8.6",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "simple-peer": "^9.6.2",
+    "socket.io-client": "^2.3.0",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test a --coverage",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.3.2",
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "engines": {
+    "node": "v12.19.0"
+  }
+}

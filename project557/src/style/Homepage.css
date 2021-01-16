@@ -1,0 +1,68 @@
+#homeMainSection {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+#page {
+  min-width: 750px;
+  min-height: 500px;
+}
+
+#friendavatar {
+  float: left;
+  margin: 15px;
+}
+
+#messageImage {
+  min-width: 10px;
+  max-height: 10px;
+}
+
+#searchLabel {
+  margin-right: 10px;
+}
+#searchBox {
+  margin-top: 10px;
+}
+
+#videoCall {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+
+/* css for Notifiaction */
+
+#notifaction{
+  max-height: 50px;
+  overflow: scroll;
+}
+
+.notifactionElement{
+  display: flex;
+  flex-direction: row;
+  margin-left:400px;
+  align-items: center;
+ 
+}
+.notifactionMsg{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h5 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+h5 span {
+  background :lightgreen;
+  padding: 0 10px;
+}
+.notificationbtn{
+  margin-left:20px;
+}

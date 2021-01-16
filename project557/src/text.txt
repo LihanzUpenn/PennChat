@@ -1,0 +1,26 @@
+npm install eslint --save-dev
+npx eslint --init
+npm install --save-dev eslint-config-prettier
+npm install --save antd@3
+npm install @material-ui/core
+npm install --save eslint-config-airbnb
+npm install --save react-window
+npm install @material-ui/icons
+npm install bootstrap-icons
+npm install mysql
+
+
+videocall
+npm install simple-peer
+npm install socket.io-client
+npm install styled-components
+npm install howler
+
+// commend for server backend
+npm install sqlite3 --save
+// chatsever
+npm install multer
+
+
+test
+npm install --save-dev @wojtekmaj/enzyme-adapter-react-17

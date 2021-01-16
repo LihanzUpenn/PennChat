@@ -1,0 +1,14 @@
+.RegisterForm {
+  width: 400px;
+  margin: 0 auto;
+}
+.textbox {
+  width: 200px;
+}
+
+#JumpLinklogin {
+  margin-top: 30px;
+}
+#registerLink {
+  color: cornflowerblue;
+}

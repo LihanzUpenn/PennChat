@@ -1,0 +1,207 @@
+#displayArea {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+#messagebtn {
+  top: 165px;
+  right: 0px;
+  width: 80px;
+  position: absolute;
+}
+
+#imageMessageDiv {
+  width: 250px;
+  height: 100px;
+}
+
+#videoMessageDiv {
+  width: 250px;
+  height: 100px;
+}
+.video {
+  width: 250px;
+  height: 150px;
+  padding: 10px;
+  text-align: center;
+}
+#showingArea {
+  max-width: 100px;
+  max-height: 100px;
+}
+#messageAndImgeButton {
+  display: flex;
+  flex-direction: row;
+}
+
+#chatBox {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  position: relative;
+  align-items: center;
+}
+
+#imgInput {
+  margin-left: 180px;
+}
+#videoInput {
+  margin-left: 146px;
+}
+
+#msg {
+  min-width: 500px;
+  min-height: 50px;
+  max-width: 500px;
+  max-height: 50px;
+  border: none;
+  overflow: scroll;
+  background: white;
+}
+#MessageBox {
+  width: 510px;
+  height: 165px;
+  background: white;
+  margin-bottom: 50px;
+  border-style: solid;
+  border-color: #a2aaad;
+  position: relative;
+}
+#audio {
+  width: 500px;
+  height: 50px;
+  border-radius: 20px;
+  padding: 20px;
+  border: 2px solid;
+  margin: 10px;
+  background: lightgray;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button {
+  height: 30px;
+  /* text-align: center;
+  line-height: 65px; */
+  background-color: cornflowerblue;
+}
+
+#audioMessageDiv {
+  margin-left: 30px;
+  width: 300px;
+  height: 50px;
+  align-items: center;
+}
+#audioMessage {
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+}
+
+.audio {
+  margin-top: 10px;
+  width: 250px;
+  height: 20px;
+}
+
+#displayDiv {
+  width: 500px;
+  height: 250px;
+  overflow: scroll;
+  background: white;
+}
+.chatImages {
+  margin-left: 150px;
+}
+
+.bubbleRight {
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  width: 300px;
+  background: #00b2ff;
+  border-radius: 30px;
+  padding: 15px;
+  text-align: start;
+  color: white;
+  margin: 5px;
+  margin-left: 180px;
+  position: relative;
+}
+
+.bubbleLeft {
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  width: 300px;
+  background: #e0e0e0;
+  border-radius: 30px;
+  padding: 15px;
+  text-align: start;
+  color: rgb(0, 0, 0);
+  margin: 5px;
+}
+
+.timeCssRight {
+  font-family: monospace;
+  font-size: 15px;
+  text-align: start;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.timeCssLeft {
+  font-family: monospace;
+  font-size: 15px;
+  text-align: start;
+  color: rgb(183, 0, 255);
+  font-weight: bold;
+}
+
+#readStatusRight {
+  margin-left: 400px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 11px;
+}
+
+#deleteBtn {
+  height: 25px;
+  width: 10px;
+  margin-left: 200px;
+}
+#videocallbtn{
+  margin-top:5px;
+}
+
+/* HighlightOffOutlinedIcon {
+  font-size: 1px;
+} */
+
+/* .bubble-bottom-left:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 24px solid #00b2ff;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #00b2ff;
+  border-bottom: 20px solid transparent;
+  left: 32px;
+  bottom: -24px;
+} */
+
+/* .bubble-bottom-right:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-right: 24px solid #00b2ff;
+  border-left: 12px solid transparent;
+  border-top: 12px solid #00b2ff;
+  border-bottom: 20px solid transparent;
+  right: 32px;
+  bottom: -24px;
+} */

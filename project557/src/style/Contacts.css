@@ -1,0 +1,97 @@
+/* contacts */
+.contactBox {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.contacts {
+  width: 100px;
+}
+
+.messageButton {
+  right: 70px;
+  top: 25px;
+  position: absolute;
+}
+.friendavatar {
+  left: 50px;
+  top: 15px;
+  position: absolute;
+}
+
+.deleteFriend {
+  right: 20px;
+  top: 25px;
+  position: absolute;
+}
+#listOfContacts {
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap-reverse; */
+  flex-flow: row wrap;
+  margin-top: 20px;
+  margin-left: 200px;
+  min-width: 150px;
+  min-height: 200px;
+  max-width: 500px;
+  max-height: 300px;
+  overflow: scroll;
+}
+
+/* add Friends */
+#AddContact {
+  margin-top: 50px;
+}
+#PeopleToAdd {
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap-reverse; */
+  flex-flow: row wrap;
+  margin-top: 20px;
+  margin-left: 200px;
+  min-width: 150px;
+  min-height: 200px;
+  max-width: 500px;
+  max-height: 200px;
+  overflow: scroll;
+}
+
+.stangerAvater {
+  left: 50px;
+  top: 15px;
+  position: absolute;
+}
+
+.addFriend {
+  right: 20px;
+  top: 25px;
+  position: absolute;
+}
+
+.contacts {
+  min-width: 400px;
+  min-height: 50px;
+  margin-top: 5px;
+  padding: 20px;
+  border-radius: 0.5px;
+  border-style: solid;
+  background-color: white;
+  border-color: gainsboro;
+  margin: auto;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.strangers {
+  min-width: 400px;
+  min-height: 50px;
+  margin-top: 5px;
+  padding: 20px;
+  border-radius: 0.5px;
+  border-style: solid;
+  background-color: lavender;
+  border-color: gainsboro;
+  margin: auto;
+  margin-top: 5px;
+  margin-right: 10px;
+}

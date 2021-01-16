@@ -1,0 +1,35 @@
+#postStory {
+  display: flex;
+  flex-direction: column;
+  /* width: 300px; */
+  left: 13vh;
+  top: 0vh;
+
+  position: absolute;
+}
+
+#dropbox img {
+  min-width: 200px;
+  min-height: 200px;
+  margin-left: 50px;
+}
+.main {
+  position: relative;
+}
+
+#displayDropBox {
+  margin-bottom: 50px;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+h2 span {
+  background: #fff;
+  padding: 0 10px;
+}

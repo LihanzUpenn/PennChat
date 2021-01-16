@@ -1,0 +1,31 @@
+#profileButtonDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+#avatarProfile {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 200px;
+  min-height: 200px;
+}
+
+#Profile {
+  margin-top: 50px;
+}
+.profileButton {
+  margin: 30px;
+}
+#deactivateAccountButton {
+  margin-top: 100px;
+  font-weight: bold;
+  background-color: lightcoral;
+}
+#changePasswordButton {
+  font-weight: bold;
+  background-color: gainsboro;
+}
+#changeAvatarButton {
+  font-weight: bold;
+  background-color: gainsboro;
+}
