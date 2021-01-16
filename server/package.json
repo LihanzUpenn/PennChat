@@ -1,0 +1,44 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest a --coverage --detectOpenHandles",
+    "start": "node wsserver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "blob": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "buffer-to-uint8array": "^1.1.0",
+    "cors": "^2.8.5",
+    "cross-blob": "^2.0.0",
+    "express": "^4.17.1",
+    "graphql-yoga": "^1.18.3",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.13",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.0",
+    "socket.io-client": "^3.0.0",
+    "sqlite3": "^5.0.0",
+    "supertest": "^6.0.1",
+    "ws": "^7.3.1"
+  },
+  "engines": {
+    "node": "12.19.0"
+  },
+  "description": ""
+}
