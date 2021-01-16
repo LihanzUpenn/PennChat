@@ -1,6 +1,6 @@
 # project-video-and-messaging-web-app-557project-kai-haotian-lihan
 
-# How to start app in vscode
+# How to start app in vscode (please npm install first)
 
 1. Navigate to "/server" , in two separate terminals run: "node wsserver.js" and "node chatserver.js". 
 
