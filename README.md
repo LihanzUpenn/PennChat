@@ -25,7 +25,7 @@ project-video-and-messaging-web-app-557project-kai-haotian-lihan created by GitH
 > 
 > h. reject video/voice calls.
 > 
-> i. inform the caller if the callee is logged out
+> i. inform the caller if the caller logged out
 
 5. Enjoy!
 
