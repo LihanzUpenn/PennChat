@@ -1,5 +1,4 @@
 # project-video-and-messaging-web-app-557project-kai-haotian-lihan
-project-video-and-messaging-web-app-557project-kai-haotian-lihan created by GitHub Classroom
 
 # How to start app in vscode
 
