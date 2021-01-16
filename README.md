@@ -1,4 +1,5 @@
 # project-video-and-messaging-web-app-557project-kai-haotian-lihan
+![Login](https://user-images.githubusercontent.com/67878225/104827003-7aac1980-5827-11eb-8aec-f5494dd51146.gif)
 
 # How to start app in vscode 
 (please npm install first)
