@@ -13,11 +13,16 @@
 
 ![MediaContent](https://user-images.githubusercontent.com/67878225/104827140-d2975000-5828-11eb-9f59-0df37180be1c.gif)
 
-4. Delete messages/conversation
+
+4. Video Call
+
+![VideoCall](https://user-images.githubusercontent.com/67878225/104827211-71bc4780-5829-11eb-903e-ddb9e28c7fe4.gif)
+
+5. Delete messages/conversation
 
 ![DeleteMessage](https://user-images.githubusercontent.com/67878225/104827183-3b7ec800-5829-11eb-9a1e-7265c1985409.gif)
 
-5
+
 
 # How to start app in vscode 
 (please npm install first)
