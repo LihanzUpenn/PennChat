@@ -13,6 +13,11 @@
 
 ![MediaContent](https://user-images.githubusercontent.com/67878225/104827140-d2975000-5828-11eb-9f59-0df37180be1c.gif)
 
+4. Delete messages/conversation
+
+![DeleteMessage](https://user-images.githubusercontent.com/67878225/104827183-3b7ec800-5829-11eb-9a1e-7265c1985409.gif)
+
+5
 
 # How to start app in vscode 
 (please npm install first)
