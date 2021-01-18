@@ -1,7 +1,7 @@
 # project-video-and-messaging-web-app-557project-kai-haotian-lihan
 
 <h3> Short Clips for Main Features</h3> 
-1. Login to Main View (Login to two different accounts)
+1. Login to Main View (Login into two different accounts)
 
 ![Login](https://user-images.githubusercontent.com/67878225/104827003-7aac1980-5827-11eb-8aec-f5494dd51146.gif)
 
@@ -9,7 +9,7 @@
 
 ![TextMessage](https://user-images.githubusercontent.com/67878225/104827083-2f463b00-5828-11eb-9f0b-ab749aaba47c.gif)
 
-3. Send/receive synchronous image, audio. and video messages between two account
+3. Send/receive synchronous image/audio/video messages between two accounts
 
 ![MediaContent](https://user-images.githubusercontent.com/67878225/104827140-d2975000-5828-11eb-9f59-0df37180be1c.gif)
 
