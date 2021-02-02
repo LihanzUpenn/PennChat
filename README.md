@@ -32,7 +32,7 @@
 ![ezgif com-gif-maker copy](https://user-images.githubusercontent.com/67878225/106577004-d525c500-650b-11eb-9825-cbea31097581.gif)
 
 
-8. Registration functionality, Retrieve password functionality, Tag friend in Message functionality is not showing in the videoes. 
+8. Registration functionality, Retrieve password functionality, Tag friend in Message functionality and some other functionalies  are not showing in the videoes. (please feel free to check the wiki to get more information)
 
 # How to start app in vscode 
 (please npm install first)
