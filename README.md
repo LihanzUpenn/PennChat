@@ -22,7 +22,13 @@
 
 ![DeleteMessage](https://user-images.githubusercontent.com/67878225/104827183-3b7ec800-5829-11eb-9a1e-7265c1985409.gif)
 
+6. Story sharing
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67878225/106576655-6a748980-650b-11eb-946d-4ab08892731b.gif)
 
+7. Account Management 
+![ezgif com-gif-maker copy](https://user-images.githubusercontent.com/67878225/106577004-d525c500-650b-11eb-9825-cbea31097581.gif)
+
+8. Registration functionality, Retrieve password functionality, Tag friend in Message functionality is not showing in the videoes. 
 
 # How to start app in vscode 
 (please npm install first)
